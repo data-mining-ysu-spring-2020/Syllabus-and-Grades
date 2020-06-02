@@ -1,1 +1,1 @@
-Syllabus of DM2020 (The grades should be added later)
+### You can see your Grades [here](https://mpsoul.shinyapps.io/Grades/) (you need to have your perosnal ID). 
